@@ -1,7 +1,7 @@
 {
-  "name": "hello_react",
+  "name": "react_test",
   "version": "1.0.0",
-  "description": "Hello React",
+  "description": "React Test",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
